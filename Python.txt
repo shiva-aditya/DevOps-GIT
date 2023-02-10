@@ -4,3 +4,6 @@
 456
 789
 789
+adding functions
+we define funtion as def <name of function>:
+this is how we declare function
